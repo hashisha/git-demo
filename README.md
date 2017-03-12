@@ -13,6 +13,10 @@
 
 ###{Steps to install}
 
+1. Test
+2. Double Test
+3. Finally merge
+
 
 ###{Contact information}
 
