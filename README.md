@@ -8,17 +8,17 @@
 {Playing with GIT has been fun. But the steps include Working, Adding to the Stage environment and then pushing that to the GIT Repository}
 
 
-##{Configuration}
+###{Configuration}
 
 
-##{Steps to install}
+###{Steps to install}
 
 
-##(Contact information)
+###{Contact information}
 
-##(About Us)
+###{About Us}
 
-## (Ipsum)
+###{Ipsum}
 
 
 
